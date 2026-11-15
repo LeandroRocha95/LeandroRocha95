@@ -8,6 +8,7 @@ code are often problems I first saw on a job site.
 - 🧱 Civil engineer (CREA-SC), running construction operations for a prefabricated wood-house builder
 - 🎓 Studying Systems Analysis and Development (ADS)
 - 🌎 Brazil · Portuguese (native), English, Spanish
+- 💼 [LinkedIn](https://www.linkedin.com/in/leandrorocha-eng)
 
 ### What I've built
 
