@@ -1,6 +1,7 @@
 # Leandro Rocha
 
 **Civil Engineer · BIM (Revit) · Technical office, quantity takeoff & cost estimating · Industrialized timber construction**
+
 Joinville, Brazil → available to relocate to Spain now (Valencia preferred · Madrid · Barcelona) · work visa sponsorship needed
 
 **Engineering portfolio — projects, drawings and built work (ES / EN / PT): [leandrorocha95.github.io](https://leandrorocha95.github.io)**
