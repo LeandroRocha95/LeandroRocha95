@@ -21,7 +21,7 @@ Open to **full-time remote roles and contracts (US / EU, B2B or contractor)** ·
 | **[Obra Centtra](https://github.com/LeandroRocha95/obra-centtra-showcase)** · in production | Multi-tenant, white-label ERP/SaaS for prefabricated-house builders: CRM & sales, parametric estimating, contracts with digital signature, planning & site diary, procurement & stock, finance, client portal, mobile app for assembly crews, **AI assistant over the company's data** | Next.js · TypeScript · Supabase (PostgreSQL, Auth, Storage, RLS) · Capacitor · Tailwind · Anthropic API |
 | **[Dash Centtra](https://github.com/LeandroRocha95/dash-centtra-showcase)** | Marketing-analytics SaaS for traffic managers and agencies (Meta Ads, Google Ads, GA4) | Next.js · TypeScript · Supabase |
 | **[E-commerce Centtra](https://github.com/LeandroRocha95/ecommerce-centtra-showcase)** | Multi-store e-commerce platform with payments, shipping, production and NF-e | Next.js · TypeScript · Supabase |
-| **[ClientDrop](https://github.com/LeandroRocha95/clientdrop-showcase)** | Client portal for agencies: files, passwords, approvals and payments by one link | Next.js · TypeScript · Supabase |
+| **[ClientDrop](https://github.com/LeandroRocha95/clientdrop-showcase)** | Client portal for agencies: files, passwords, approvals and payments by one link | JavaScript SPA · Supabase Edge Functions (TypeScript) · Postgres/RLS · Stripe · Capacitor |
 
 > Source code of the products is private; each showcase repo contains real sample modules with tests, the architecture and screenshots.
 
